@@ -22,6 +22,10 @@ public class AppController {
     public String register(){
         return "register.jsp";
     }
+    @RequestMapping("")
+    public String signin2(){
+        return "login.jsp";
+    }
     @RequestMapping("signin")
     public String signin(){
         return "login.jsp";
