@@ -1,3 +1,4 @@
+<%@ page errorPage="ErrorPage.html" %>
 <!DOCTYPE html>
 <html>
 
